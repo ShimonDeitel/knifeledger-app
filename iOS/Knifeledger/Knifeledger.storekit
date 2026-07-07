@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "com.shimondeitel.knifecare.pro",
+      "localizations": [
+        {
+          "description": "Sharpening reminders and maintenance history export",
+          "displayName": "Knifeledger Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.knifecare.pro",
+      "referenceName": "Knifeledger Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
